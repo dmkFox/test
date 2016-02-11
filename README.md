@@ -1,2 +1,4 @@
 # test
-Testing for the test-oriented tester of tests.
+Testing for the Test-oriented tester of tests.
+
+Also, testers like to test testing of tests in testing environments. 
